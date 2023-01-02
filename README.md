@@ -1,3 +1,5 @@
 # dashboard-desmatamento
 
-Projeto para consumo de uma API do Governo Federal para construção de Dashboard de dados de desmatamento da Amazônia Legal
+Projeto para criação de uma aplicação web para apresentação de principais dados de desmatamento na Amazônia
+
+Status: Em desenvolvimento
